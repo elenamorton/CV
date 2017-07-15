@@ -51,17 +51,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Qualcomm (QCT) UK Ltd** *Farnborough, Hampshire, June 2012 - July 2016*      
-Multimode Handset Integration Software Engineer for 2.5G/3G/4G mobile phone modems, in single/dual/triple SIM configurations
-- Agile, CI with Jenkins, Package Warehouse, automation testing
-- Log analysis and software debugging on target platforms
-- Involved in software releases for 15-20 products to customers like: Samsung, Apple, LG, Xiaomi, HTC.
-- Perforce, Git
+***Multimode Handset Integration Software Engineer for 2.5G/3G/4G mobile phone modems, in single/dual/triple SIM configurations***  
+Agile, CI with Jenkins, Package Warehouse, automation testing  
+Log analysis and software debugging on target platforms  
+Involved in software releases for 15-20 products to customers like: Samsung, Apple, LG, Xiaomi, HTC.  
+Perforce, Git
 
-**ST-Ericsson Ltd (formerly Ericsson Mobile Platforms)** *Basingstoke, Hampshire, June 2006 - Dec 2011*     
-CPO Integration & Delivery Software Engineer for generic Ericsson and customized 2G & 3G mobile phones modems
-- Deliveries to 5-8 customers, like: Sony Ericsson, LG, HTC, Sagem, Asus
-- Code propagations cross-projects, Daily builds, sanity target testing
-- ClearCase, Git
+**ST-Ericsson Ltd (formerly Ericsson Mobile Platforms)** *Basingstoke, Hampshire, June 2006 - Dec 2011*       
+CPO Integration & Delivery Software Engineer for generic Ericsson and customized 2G & 3G mobile phones modems  
+Deliveries to 5-8 customers, like: Sony Ericsson, LG, HTC, Sagem, Asus  
+Code propagations cross-projects, Daily builds, sanity target testing  
+ClearCase, Git
 
 **NEC Technologies (UK) Ltd** *Reading, Berkshire, Jan 2002 - June 2006*  
 Principle Software Integration Engineer for 2G & 3G mobile phones modems.  
