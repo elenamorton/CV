@@ -1,6 +1,6 @@
 ## Elena Morton
 
-[About](#about) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[About](#about) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
 
 Software engineer skilled in development, integration, configuration and release management on UNIX/Linux, and Windows systems with extensive telecoms background.
 
@@ -10,17 +10,22 @@ More than 20 years of commercial experience working in agile teams. Added knowle
 
 
 ## Projects
-
+Project | Description | Duration
+------- | ---------------- | ----------:
+Blockchain Voting machine  | final project... | 10 days
+Bowling Calculator  | JavaScript      | 5 days
+Web Search engine   | Scratch implementation in Ruby | 5 days
+Acebook   | Ruby on Rails       | 5 days
 
 ## Skills
 
-#### This Skill
+#### Technical Skills
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+- Programming: C, Perl, Python, Ruby, JavaScript, C++, SQL, Assembler, Bash scripting
+- Debugging / Testing: builds logs analysis, target testing errors identification and reporting, automation target testing;
+- Networking: Protocol Stack Layer 2/3 Implementation, TCP/IP, BSD sockets, HTTP, Wireshark, Fiddler
+- Operating Systems: Unix, Linux Ubuntu, Windows, MAC
+- Configuration Management: Clearcase, GIT, Perforce, Continuous Integration, Jenkins
 
 #### Another Skill
 
@@ -54,12 +59,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ***Multimode Handset Integration Software Engineer for 2.5G/3G/4G mobile phone modems, in single/dual/triple SIM configurations***  
 Agile, CI with Jenkins, Package Warehouse, automation testing  
 Log analysis and software debugging on target platforms  
-Involved in software releases for 15-20 products to customers like: Samsung, Apple, LG, Xiaomi, HTC.  
+Involved in software releases for 15-20 products to customers like: Samsung, Apple, LGE, Xiaomi, HTC, Motorola, Lenovo.
 Perforce, Git
 
 **ST-Ericsson Ltd (formerly Ericsson Mobile Platforms)** *Basingstoke, Hampshire, June 2006 - Dec 2011*       
 ***CPO Integration & Delivery Software Engineer for generic Ericsson and customized 2G & 3G mobile phones modems***  
-Deliveries to 5-8 customers, like: Sony Ericsson, LG, HTC, Sagem, Asus  
+Deliveries to 5-8 customers, like: Sony Ericsson, LGE, HTC, Sagem, Asus  
 Code propagations cross-projects, Daily builds, sanity target testing  
 ClearCase, Git
 
@@ -76,7 +81,8 @@ Target and host testing
 ClearCase
 
 **Institute of MicroTechnology** *Bucharest, Romania, Dec 1995 - Dec 1998*  
-***Team leader and programmer working on an R&D project for the European Community (ESPRIT ASPIS 20287)***  
+***Team leader and developer***  
+Working on an R&D project for the European Community (ESPRIT ASPIS 20287)    
 Design and implementation of the DECT stack at layer 2/3 for both UE and base station sides, including interoperability with the 2G system.  
 Porting C library to Unix Solaris OS.
 
