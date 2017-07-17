@@ -41,13 +41,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Makers Academy** *Apr 2017 - July 2017*
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, Agile, Pair Programming
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Vue.js
+- Ruby, Rails, Javascript, JQuery, Node.js, Vue.js
 - Rspec, Jasmine, PostgreSQL, GIT
 
 **Codecademy/PluralSight/SitePoint** *Aug 2016 - Mar 2017*
 - Front-end online training
-- JavaScript, HTML, CSS, Bootstrap, SASS, Node.js, React.js
+- JavaScript, HTML, CSS, Bootstrap, SASS, Node.js, JQuery
 - Windows10/cygwin platform configuration
 
 **”Polytechnica” University of Bucharest** *Sept 1893 - June 1988*
@@ -97,3 +96,7 @@ Working on real-time data acquisition embedded systems (16-bit family) and high 
 **ICIN Bucharest** *Bucharest, Romania, Oct 1988 - June 1990*  
 ***Analyst Programmer***  
 Working on a database application for the factory products, using dBase III language. Coding in assembly language for Zilog/Intel 8-bit family devices at firmware level.
+
+***
+
+https://www.linkedin.com/in/elena-morton/
