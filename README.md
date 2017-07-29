@@ -1,6 +1,8 @@
 ## Elena Morton
 
-[About](#about) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
+[ABOUT](#about) | [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education-and-qualifications) | [Experience](#experience) | [NETWORKS](#networks-and-media)
+
+
 
 Software engineer skilled in development, integration, configuration and release management on UNIX/Linux, and Windows systems with extensive telecoms background.
 
@@ -10,18 +12,19 @@ More than 20 years of commercial experience working in agile teams. Added knowle
 
 
 ## Projects
-Project | Description | Duration
-------- | ---------------- | ----------:
-Blockchain Voting machine  | final project... | 10 days
-Bowling Calculator  | JavaScript      | 5 days
-Web Search engine   | Scratch implementation in Ruby | 5 days
-Acebook   | Ruby on Rails       | 5 days
+Project | Summary | Technologies | Testing
+------- | ---------------- | ---------- | ----------:
+BabelChat ([Github] (https://github.com/elenamorton/BabelChat)) | The graduation project - A real-time language translator using Google-API | Javascript, React, Sockets.io, Node.js, Express, MongoDB, Passport, HTML/CSS | Mocha, Chai, Zombie
+SunTiger ([Github] (https://github.com/elenamorton/search_engine))  | A scratch implementation of a web search engine (in command line)  | Ruby | Rspec
+Makers B'n'B ([Github] (https://github.com/elenamortonmakersbnb_2017)) | The first experience of a group project at Makers Academy (Week 6). An application that allows to list available spaces, and hire ones for the night. | Ruby, DataMapper, PostgreSQL, Sinatra, Bycript, HTML/CSS | RSpec, Capybara
+Acebook ([Github] (https://github.com/elenamorton/Acebook)) | A facebook-like application | Ruby on Rails, Clearence, Factory-girl, HTML/CSS | Rspec, Capybara
+Bowling Calculator ([Github] (https://github.com/elenamorton/bowling-challenge)) | A bowling game with score calculator | Vanilla JavaScript, HTML/CSS | Jasmine, Istanbul
 
 ## Skills
 
 #### Technical Skills
 
-- Programming: C, Perl, Python, Ruby, JavaScript, C++, SQL, Assembler, Bash scripting
+- Programming: C, Ruby, Perl, Python, JavaScript, C++, SQL, Assembler, Bash scripting, HTML/CSS, Jquery
 - Debugging / Testing: builds logs analysis, target testing errors identification and reporting, automation target testing;
 - Networking: Protocol Stack Layer 2/3 Implementation, TCP/IP, BSD sockets, HTTP, Wireshark, Fiddler
 - Operating Systems: Unix, Linux Ubuntu, Windows, MAC
