@@ -14,9 +14,9 @@ More than 20 years of commercial experience working in agile teams. Added knowle
 ## Projects
 Project | Summary | Technologies | Testing
 ------- | ---------------- | ---------- | ----------:
-BabelChat ([Github](https://github.com/elenamorton/BabelChat)) | The graduation project - A real-time language translator using Google-API | Javascript, React, Sockets.io, Node.js, Express, MongoDB, Passport, HTML/CSS | Mocha, Chai, Zombie
+BabelChat ([Github](https://github.com/elenamorton/BabelChat)) | The graduation project - A real-time language translator using Google-API | Javascript, React, Sockets.io, Node.js, Express, MongoDB, Passport, Google-API, HTML/CSS | Mocha, Chai, Zombie
 SunTiger ([Github](https://github.com/elenamorton/search_engine))  | A scratch implementation of a web search engine (in command line)  | Ruby | Rspec
-Makers B'n'B ([Github](https://github.com/elenamortonmakersbnb_2017)) | The first experience of a group project at Makers Academy (Week 6). An application that allows to list available spaces, and hire ones for the night. | Ruby, DataMapper, PostgreSQL, Sinatra, Bycript, HTML/CSS | RSpec, Capybara
+MakersB'n'B ([Github](https://github.com/elenamortonmakersbnb_2017)) | The first experience of a group project at Makers Academy (Week 6). An application that allows to list available spaces, and hire ones for the night. | Ruby, DataMapper, PostgreSQL, Sinatra, Bycript, HTML/CSS | RSpec, Capybara
 Acebook ([Github](https://github.com/elenamorton/Acebook)) | A facebook-like application | Ruby on Rails, Clearence, Factory-girl, HTML/CSS | Rspec, Capybara
 Bowling Calculator ([Github](https://github.com/elenamorton/bowling-challenge)) | A bowling game with score calculator | Vanilla JavaScript, HTML/CSS | Jasmine, Istanbul
 
