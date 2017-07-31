@@ -48,7 +48,7 @@ Bowling Calculator ([Github](https://github.com/elenamorton/bowling-challenge)) 
 - Met tight time constrains deliveries by co-ordinating daily project integration scrum meetings across 3 sites for issues tracking and pursue resolution. Communicated with all staff levels
 - Successfully liaised issues cross teams that affect the team work, and follow up for resolutions and process improvement that increased code quality
 
-## Education
+## <a name="#education">Education</a>
 
 **Makers Academy** *Apr 2017 - July 2017*
 - Independent learner and problem-solver
@@ -64,7 +64,7 @@ Bowling Calculator ([Github](https://github.com/elenamorton/bowling-challenge)) 
 **”Polytechnica” University of Bucharest** *Sept 1983 - June 1988*
 - Master of Science in Control Engineering and Computer Science. Graduation Mark = 9.20; Diploma mark=10.00 (on a 1 to 10 scale)
 
-## Work experience
+## <a name="#experience">Work experience</a>
 
 **Qualcomm (QCT) UK Ltd** *Farnborough, Hampshire, June 2012 - July 2016*      
 ***Multimode Handset Integration Software Engineer for 2.5G/3G/4G mobile phone modems, in single/dual/triple SIM configurations***  
@@ -109,6 +109,6 @@ Porting C library to Unix Solaris OS.
 ***Analyst Programmer***  
 >Working on a database application for the factory products, using dBase III language. Coding in assembly language for Zilog/Intel 8-bit family devices at firmware level.
 
-## Contact
+## <a name="#contact">Contact</a>
 
 [LinkedIn](https://www.linkedin.com/in/elena-morton/)
