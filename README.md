@@ -29,22 +29,23 @@ Bowling Calculator ([Github](https://github.com/elenamorton/bowling-challenge)) 
 
 ## Skills
 
-#### Technical Skills
+### Technical Skills
 
 - Programming: C, Ruby, Perl, Python, JavaScript, C++, SQL, Assembler, Bash scripting, HTML/CSS, Jquery
-- Debugging / Testing: builds logs analysis, target testing errors identification and reporting, automation target testing;
+- Debugging / Testing: build logs analysis, target testing errors analysis, automation target testing;
 - Networking: Protocol Stack Layer 2/3 Implementation, TCP/IP, BSD sockets, HTTP, Wireshark, Fiddler
 - Operating Systems: Unix, Linux Ubuntu, Windows, MAC
 - Configuration Management: Clearcase, GIT, Perforce, Continuous Integration, Jenkins
 
-#### Another Skill
+### Functional Skills
+#### Problem Solving
+- Achieved high levels of multi-tasking ability by remaining goal oriented, completing several tasks simultaneously to reach desired targets
+- Increased software quality by identifying errors and issues, while providing potential solutions. Actively engaged cross tech team for exposing and resolving internal modules issues
+- Agile project execution and customer focused on timely and high quality deliveries for over 20 customers including Samsung, LGE, Motorola, Apple, HTC
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Communication Skills
+- Met tight time constrains deliveries by co-ordinating daily project integration scrum meetings across 3 sites for issues tracking and pursue resolution. Communicated with all staff levels
+- Successfully liaised issues cross teams that affect the team work, and follow up for resolutions and process improvement that increased code quality
 
 ## Education
 
