@@ -1,6 +1,6 @@
 ## Elena Morton
 
-[ABOUT](#about) | [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education-and-qualifications) | [EXPERIENCE](#experience) | [NETWORKS](#networks-and-media)
+[ABOUT](#about) | [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [NETWORKS](#networks)
 
 
 
