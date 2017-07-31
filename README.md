@@ -86,7 +86,7 @@ First 3G mobile phone released in the UK as double-mode stack (end 2002)
 ClearCase, CI
 
 **Ericsson Telecommunications Romania Ltd.** *Bucharest, Romania, Jan 1999 - Jan 2002*  
-***Senior Telecom Software Developer for network side (base stations)***  
+***Senior Software Developer for network side (base stations)***  
 >Design and Implementation of protocol stacks at Layer 2 & Layer 3  
 Target and host testing  
 ClearCase
