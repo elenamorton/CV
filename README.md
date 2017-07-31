@@ -51,15 +51,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Makers Academy** *Apr 2017 - July 2017*
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, Agile, Pair Programming
-- Ruby, Rails, Javascript, JQuery, Node.js, Vue.js
-- Rspec, Jasmine, PostgreSQL, GIT
+- Ruby, Rails, Javascript, JQuery, Node.js, Express
+- Rspec, Jasmine, Mocha, PostgreSQL, GIT
 
 **Codecademy/PluralSight/SitePoint** *Aug 2016 - Mar 2017*
 - Front-end online training
 - JavaScript, HTML, CSS, Bootstrap, SASS, Node.js, JQuery
 - Windows10/cygwin platform configuration
 
-**”Polytechnica” University of Bucharest** *Sept 1893 - June 1988*
+**”Polytechnica” University of Bucharest** *Sept 1983 - June 1988*
 - Master of Science in Control Engineering and Computer Science. Graduation Mark = 9.20; Diploma mark=10.00 (on a 1 to 10 scale)
 
 ## Experience
