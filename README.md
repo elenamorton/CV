@@ -10,6 +10,13 @@ More than 20 years of commercial experience working in agile teams. Added knowle
 
 ## About
 
+Since I graduated University in the Computer Science and Control Engineering field, I have enjoyed covering a wide range of software engineering roles. 
+
+I have worked as a software developer ranging a mix of applications and real-time embedded systems areas, from manufacturing production flow, to telecomms protocol stacks implementation, and electrical measurements devices. I also worked as a software integration and delivery engineer in 2G/3G/4G mobile phones for the modem side.
+
+I come to enjoy high quality, easy to read, and maintainable software. Recently, at Makers Academy I received comments about my code being "terse and well structured".
+
+Software engineering is a very dynamic world, and I am always keen on improving myself. Web developement is a very exciting area and has been interested me for a while. In the last year, I took the oportunity to deep dive into learning how to develop web applications that concluded by me joining the now renown Makers Academy.  
 
 ## Projects
 Project | Summary | Technologies | Testing
@@ -102,4 +109,4 @@ Working on a database application for the factory products, using dBase III lang
 
 ***
 
-https://www.linkedin.com/in/elena-morton/
+[LinkedIn](https://www.linkedin.com/in/elena-morton/)
