@@ -1,8 +1,9 @@
-## Elena Morton
+<!-- ## Elena Morton
 
-[ABOUT](#about) | [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [NETWORKS](#networks)
+[ABOUT](#about) | [PROJECTS](#projects) | [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [NETWORKS](#networks) -->
 
-
+<p align="right"><a href="#about">ABOUT</a> | <a href="#projects">PROJECTS</a> | <a href="#skills">SKILLS</a> | <a href="#education">EDUCATION</a> | <a href="#experience">EXPERIENCE</a> | <a href="#contact">CONTACT</a></p>
+<h1>Elena Morton</h1>
 
 Software engineer skilled in development, integration, configuration and release management on UNIX/Linux, and Windows systems with extensive telecoms background.
 
@@ -10,7 +11,7 @@ More than 20 years of commercial experience working in agile teams. Added knowle
 
 ## About
 
-Since I graduated University in the Computer Science and Control Engineering field, I have enjoyed covering a wide range of software engineering roles. 
+Since I graduated the University in the Computer Science field, I have enjoyed covering a wide range of software engineering roles. 
 
 I have worked as a software developer ranging a mix of applications and real-time embedded systems areas, from manufacturing production flow, to telecomms protocol stacks implementation, and electrical measurements devices. I also worked as a software integration and delivery engineer in 2G/3G/4G mobile phones for the modem side.
 
@@ -108,6 +109,6 @@ Working on real-time data acquisition embedded systems (16-bit family) and high 
 ***Analyst Programmer***  
 Working on a database application for the factory products, using dBase III language. Coding in assembly language for Zilog/Intel 8-bit family devices at firmware level.
 
-***
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/elena-morton/)
