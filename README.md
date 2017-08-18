@@ -32,8 +32,8 @@ Bowling Calculator ([Github](https://github.com/elenamorton/bowling-challenge)) 
 
 ### Technical Skills
 
-- Programming: C, Ruby, Perl, Python, JavaScript, C++, SQL, Assembler, Bash scripting, HTML/CSS, Jquery
-- Debugging / Testing: build logs analysis, target testing errors analysis, automation target testing;
+- Programming: C, Ruby, JavaScript, HTML/CSS, JQuery, Bash scripting, Python, Perl, SQL, Assembler.
+- Debugging / Testing: TDD/BDD, RSpec, Jasmine, Mocha; build logs analysis, target testing errors analysis, automation target testing;
 - Networking: Protocol Stack Layer 2/3 Implementation, TCP/IP, BSD sockets, HTTP, Wireshark, Fiddler
 - Operating Systems: Unix, Linux Ubuntu, Windows, MAC
 - Configuration Management: Clearcase, GIT, Perforce, Continuous Integration, Jenkins
@@ -54,7 +54,7 @@ Bowling Calculator ([Github](https://github.com/elenamorton/bowling-challenge)) 
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, Agile, Pair Programming
 - Ruby, Rails, Javascript, JQuery, Node.js, Express
-- Rspec, Jasmine, Mocha, PostgreSQL, GIT
+- RSpec, Jasmine, Mocha, PostgreSQL, GIT
 
 **Codecademy/PluralSight/SitePoint** *Aug 2016 - Mar 2017*
 - Front-end online training
