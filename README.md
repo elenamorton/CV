@@ -11,7 +11,7 @@ More than 20 years of commercial experience working in agile teams. Added knowle
 
 ## About
 
-Since I graduated the University in the Computer Science field, I have enjoyed covering a wide range of software engineering roles. 
+Since I graduated University in the Computer Science field, I have enjoyed a wide range of software engineering roles. 
 
 I have worked as a software developer over a mix of applications and real-time embedded systems areas, from manufacturing production flow, to telecomms protocol stacks implementation, and electrical measurement devices. I also worked as a software integration and delivery engineer in 2G/3G/4G mobile phones on the modem side.
 
